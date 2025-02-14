@@ -1,0 +1,22 @@
+### LINK CURSO ###
+https://www.youtube.com/watch?v=1glVfFxj8a4
+
+### REPOSITORIO ###
+Link: https://mouredev.link/javascript
+
+### ENTORNO DE EJECUCION WEB ###
+javascript playground
+
+### GUIA JS ###
+https://google.github.io/styleguide/jsguide.html
+
+Es un lenguanje interpretado, de tipado dinamico. 
+
+
+
+
+
+
+Lightning
+adaptador macho para cable Lightning
+Cable USB Lightning
