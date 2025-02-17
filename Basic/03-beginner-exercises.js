@@ -11,6 +11,11 @@ let nombre = 'Argenis Uribe'
 let edad = 42
 let estatura = 1.62
 let vBoolean = true
+let undefinedValue1
+let nullValue = null
+let mySymbol1 = Symbol("mysymbol1")
+let myBigint1 = BigInt(8154654658272828416428241)
+let myBigint3 = 8154654658272828416428241n
 
 // 4. Imprime por consola el valor de todas las variables.
 
